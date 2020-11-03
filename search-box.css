@@ -1,0 +1,31 @@
+.search {
+  margin-left: 480px;
+  outline: none;
+  border: none;
+  height: 30px;
+}
+.btn {
+  color: white;
+  border-color: blue;
+  background: none;
+}
+.btn:hover {
+  color: red;
+  border-color: Red;
+}
+h1 {
+  font-family: "Bigelow Rules", cursive;
+  margin-left: 450px;
+  margin-bottom: 40px;
+  color: red;
+}
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(19, 204, 222, 1) 0%,
+    rgba(4, 3, 66, 1) 100%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
